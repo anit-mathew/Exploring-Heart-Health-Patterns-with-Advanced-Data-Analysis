@@ -1,3 +1,5 @@
+## Exploring Heart Health Patterns with Advanced-Data-Analysis
+
 # Introduction:
 In an era where data is transforming industries, healthcare is no exception. Leveraging historical ride data, a ride-sharing company sought to optimize its pricing strategy. Similarly, a dataset filled with features related to heart health opens the door to developing predictive models for dynamic pricing. In this article, we delve into the exploration of heart health data, utilizing logistic regression, random forest, and xgboost models.
 
